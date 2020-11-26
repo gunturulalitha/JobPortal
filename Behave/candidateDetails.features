@@ -1,0 +1,5 @@
+# -- RERUN: 3 failing scenarios during last test run.
+features/jobPortal.feature:13
+features/jobPortal.feature:14
+features/jobPortal.feature:15
+

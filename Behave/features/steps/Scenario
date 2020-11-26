@@ -1,0 +1,12 @@
+Open Numpy Ninja homepage
+   Browse your resume to upload and click upload button
+   You are directed to applicant page.
+   Update details and click submit
+
+   Check the First name is entered and it's size is <=50
+   Check the Last name is entered and it's size is <=50
+   Check the Phone number is entered and it's in format 123-345-3456
+   Check the Email is entered and it's in format abcd@domainname.com
+   Check if Skills entered then it's size is <= 200
+   Check if Education is entered and it's size is <=20
+   Check the Emp Auth is entered and it's size is <=20
